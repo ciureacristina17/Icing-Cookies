@@ -1,0 +1,222 @@
+.iconite ul li {
+    list-style: none;
+    font-size: 20px;
+}
+
+.fab.fa-twitter {
+    margin-top: 60px;
+}
+
+.navbar-brand {
+    margin-top: -220px;
+    margin-left: 650px;
+}
+
+.collapse.navbar-collapse {
+    margin-top: -80px;
+    margin-left: -500px;
+    font-weight: 700;
+}
+
+.nav-item.nav-link {
+    color: black;
+}
+
+.btn.btn-order {
+    color: black;
+    font-size: 10px;
+    font-weight: 700;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    background-color: #f9e7e7;
+    border-radius: 25px;
+}
+
+.fatured {
+    margin-top: 350px;
+}
+
+.cookies {
+    color: #c19c9c;
+}
+
+.line {
+    margin-left: 580px;
+    margin-right: 570px;
+    border: 2px solid black;
+}
+
+.card {
+    position: relative;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border-radius: .25rem;
+}
+
+.card-title.shower {
+    margin-top: 100px;
+    margin-left: 70px;
+}
+
+.card-title.cookies {
+    color: black;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-left: 70px;
+}
+
+.btn.btn-order-cookies {
+    color: black;
+    font-size: 27px;
+    font-weight: 700;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-left: 120px;
+    background-color: transparent;
+    border-color: black;
+}
+
+.linie-sus {
+    margin-top: 100px;
+    border-top: 3px solid black;
+    margin-left: 40px;
+    margin-right: 25px;
+}
+
+.linie-jos {
+    margin-top: 20px;
+    border-top: 3px solid black;
+    margin-left: 40px;
+    margin-right: 25px;
+}
+
+#section5 aside {
+    margin-left: 50px;
+    margin-top: -554px;
+}
+
+aside {
+    margin-top: 60px;
+    width: 55%;
+    padding-left: 15px;
+    padding-bottom: 60px;
+    float: right;
+    background-color: #f9e7e7;
+}
+
+aside h2 {
+    margin-top: 60px;
+    margin-left: 68px;
+}
+
+aside h6 {
+    margin-top: 20px;
+    margin-bottom: 0px;
+    margin-left: 70px;
+}
+
+.tempor {
+    margin-top: 6px;
+}
+
+aside h5 {
+    margin-top: 20px;
+    margin-left: 70px;
+}
+
+.name,
+.casute {
+    margin-left: 56px;
+}
+
+.btn.btn-order-black {
+    color: white;
+    background-color: black;
+    font-weight: 600;
+    margin-top: 40px;
+    margin-left: 71px;
+    padding-left: 36px;
+    padding-right: 36px;
+}
+
+.subscribe {
+    margin-top: 120px;
+}
+
+.client-satisfaction {
+    margin-left: -40px;
+}
+
+.line-subscribe {
+    margin-left: 600px;
+    margin-right: 640px;
+    border: 2px solid black;
+}
+
+.line-client {
+    margin-left: 590px;
+    margin-right: 550px;
+    border: 2px solid black;
+}
+
+.subscribe h6 {
+    margin-left: 510px;
+}
+
+.subscribe-name {
+    margin-left: 420px;
+}
+
+.btn.btn-subscribe {
+    font-size: 18px;
+    background-color: #f9e7e7;
+    margin-top: -100px;
+    margin-left: 920px;
+    padding-left: 36px;
+    padding-right: 36px;
+}
+
+#section8 {
+    margin-top: 120px;
+    margin-left: 300px;
+}
+
+.line-footer1 {
+    margin-right: 127px;
+    border: 1px solid black;
+}
+
+.line-footer2 {
+    margin-right: 115px;
+    border: 1px solid black;
+}
+
+.line-footer3 {
+    margin-right: 150px;
+    border: 1px solid black;
+}
+
+.text-footer {
+    color: #c19c9c;
+    font-weight: bold;
+}
+
+.footer-text {
+    margin-left: 300px;
+}
+
+.list-unstyled a {
+    color: black;
+    font-size: 13px;
+}
+
+.footer-copyright {
+    margin-left: 90px;
+    font-size: 13px;
+    font-weight: 500;
+}
